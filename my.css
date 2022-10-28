@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "BebasNeue";
+  src: url(font/BebasNeue-Regular.ttf);
+  font-family: "Rubik";
+  src: url(font/Rubik-VariableFont_wght.ttf);
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #cacfcc;
+}
+
+nav .container {
+  font-family: "Rubik", Arial;
+}
+
+h2 {
+  font-family: "Rubik", Arial;
+}
+
+p {
+  font-family: "BebasNeue", Arial;
+}
+
+#gallery {
+  background-color: #cacfcc;
+}
+
+footer {
+  background-color: #cacfcc;
+}
+
+section {
+  padding-top: 7rem;
+}
+
+section .display-4 {
+  font-family: "BebasNeue", Arial;
+}
